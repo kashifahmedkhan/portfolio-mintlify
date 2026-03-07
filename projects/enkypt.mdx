@@ -1,0 +1,99 @@
+---
+title: "Enkypt"
+description: "A commercial WordPress security plugin offering enterprise-grade protection at 17–50% below market leaders, built for non-technical users and agencies managing multiple client sites."
+---
+
+Enkypt is a commercial WordPress security plugin I designed and built as a solo Technical Product Manager using an AI-assisted development workflow. It is currently in late-stage development with all core features built and a full QA pass underway.
+
+The core idea came from a gap I kept seeing in the market: most WordPress security tools are either too complex for non-technical users or too expensive for small businesses. The established players — Wordfence, Sucuri — are priced and designed for teams with technical resources. Enkypt is priced 17–50% below those market leaders and built around an interface that does not require a manual to operate.
+
+## Pricing Tiers
+
+<CardGroup cols={3}>
+  <Card title="Starter" icon="seedling">
+    **Free** — Available on WordPress.org. Core protection for any WordPress site with zero configuration required.
+  </Card>
+  <Card title="Growth" icon="chart-line">
+    <p>**\$17/month** _OR_ **\$204/year**.<br/>
+    Full security suite for small businesses and freelancers managing client sites.</p>
+  </Card>
+  <Card title="Scale" icon="building">
+    <p>**\$42.50/month** _OR_ **\$510/year**.<br/>
+    Multi-site dashboard and network-wide policy management for agencies.</p>
+  </Card>
+</CardGroup>
+
+## Features by Tier
+
+### Starter — Free
+
+Available to all users through WordPress.org:
+
+- **Security Health Score** — visual A–F grade of your site's overall security posture
+- **Login Protection** — rate limiting, lockouts, and brute force detection
+- **File Integrity Monitoring** — detects unauthorised changes to core WordPress files
+- **Activity Log** — full audit trail of admin actions and security events
+- **Security Hardening** — disables XML-RPC, hides WordPress version, blocks user enumeration
+
+<Note>
+The free tier is intentionally designed to surface problems and build trust. It shows users what is wrong. Paid tiers provide the one-click resolution and automation. This creates a natural upgrade path without pushy upselling.
+</Note>
+
+### Growth — $17/month
+
+Everything in Starter, plus:
+
+- **Malware Scanner** — scheduled and on-demand file scanning
+- **Web Application Firewall (WAF)** — blocks common attack patterns in real time
+- **Vulnerability Scanner** — detects known CVEs in installed plugins and themes
+- **Two-Factor Authentication** — TOTP-based, compatible with Google Authenticator
+- **Country Blocking** — geo-IP based access control
+- **Weekly PDF Security Reports**
+- **Advanced Hardening Policy Controls** — allowlists, exceptions, and bypass windows
+- **Priority email support** — 48-hour response
+
+### Scale — $42.50/month
+
+Everything in Growth, plus:
+
+- **Multi-Site Dashboard** — manage and bulk-scan up to 5 WordPress subsites from one interface
+- **Network-wide policy orchestration** — enforce hardening settings across all subsites simultaneously
+- **Daily PDF reports**
+- **24-hour priority support**
+
+## Who It Is For
+
+<CardGroup cols={3}>
+  <Card title="Small Business Owners" icon="store">
+    Non-technical owners who have been hacked before and want peace of mind without hiring a developer.
+  </Card>
+  <Card title="Freelance Developers" icon="laptop">
+    Developers managing multiple client sites who need centralised visibility and efficient bulk management.
+  </Card>
+  <Card title="Marketing Agencies" icon="chart-bar">
+    Agencies that need to monitor, report, and enforce security policies across client sites at scale.
+  </Card>
+</CardGroup>
+
+## How I Built It
+
+Enkypt is a solo project. My role was Technical Product Manager and director of development. I authored every planning and specification document before a line of code was written:
+
+- Full Technical Requirements Document
+- Database schema and REST API contract
+- Feature tier matrix and pricing model
+- Coding standards and PHPCS compliance guidelines
+- Complete QA testing guide
+
+Development was directed using an AI agent toolchain: Claude Code, GPT Codex, Codebuff, and Warp. I coordinated between agents, reviewed all output, and maintained code quality standards throughout.
+
+**Stack:** PHP 7.4+ with WordPress coding standards (PHPCS compliant) · React 18 + TypeScript frontend compiled to static assets · Tailwind CSS · Freemius for licensing and payments
+
+## Year One Targets
+
+| Metric | Target |
+|---|---|
+| Free installs | 10,000 |
+| Paid customers | 700 |
+| Conversion rate | 7% |
+| ARR | $69,300 |

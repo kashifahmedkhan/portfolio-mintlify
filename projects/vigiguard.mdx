@@ -1,0 +1,51 @@
+---
+title: "VigiGuard"
+description: "A free WordPress security plugin built for non-technical users. One-click hardening, brute force protection, and file integrity monitoring with zero configuration required."
+---
+
+VigiGuard is a free WordPress security plugin I built independently for non-technical site owners who need real protection without complexity. It is live on WordPress.org.
+
+The problem it solves is straightforward: most WordPress security plugins are built for developers. They have dense settings panels, technical jargon, and require significant configuration before they do anything useful. VigiGuard does the opposite — install it, click one button, and your site is hardened.
+
+<Card title="View on WordPress.org" icon="wordpress" href="https://wordpress.org/plugins/vigiguard-security/">
+  VigiGuard is live and available to install directly from the WordPress plugin repository.
+</Card>
+
+## Key Features
+
+<CardGroup cols={2}>
+  <Card title="One-Click Fix" icon="bolt">
+    Applies all recommended security hardening settings instantly with a single button. No configuration required.
+  </Card>
+  <Card title="Security Health Score" icon="gauge">
+    Visual A–F grade showing your site's overall security posture at a glance.
+  </Card>
+  <Card title="Brute Force Protection" icon="shield">
+    Automatically blocks repeated login attempts before they become a threat.
+  </Card>
+  <Card title="File Integrity Monitor" icon="file-magnifying-glass">
+    Scans 3,000+ WordPress core files weekly and alerts you to unauthorised changes.
+  </Card>
+  <Card title="Activity Logging" icon="list">
+    Tracks all security events and login attempts with a full audit trail.
+  </Card>
+  <Card title="Security Hardening" icon="lock">
+    Disables XML-RPC, hides the WordPress version, and blocks user enumeration automatically.
+  </Card>
+</CardGroup>
+
+## Who It Is For
+
+VigiGuard is designed for three types of users:
+
+- **Small business owners** who need security without hiring a developer
+- **Bloggers** who want set-and-forget protection they never have to think about
+- **Freelancers** managing multiple client sites who need something lightweight and reliable
+
+## How I Built It
+
+I designed and built VigiGuard as a solo project using an AI-assisted development workflow. My role was Technical Product Manager and director of development — I wrote the full Technical Requirements Document, defined the feature scope, authored the database schema and REST API contract, and directed implementation using Claude Code, GPT Codex, Codebuff, and Warp as my development toolchain.
+
+The stack is PHP 7.4+ following WordPress coding standards (PHPCS compliant), with a React 18 and TypeScript frontend compiled to static assets and styled with Tailwind CSS.
+
+VigiGuard is also the foundation for Enkypt, a commercial security plugin built on the same core with an expanded feature set and a paid tier structure targeting small-to-medium businesses and agencies.

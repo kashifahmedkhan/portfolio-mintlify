@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "CipherWiz Docx",
+  "name": "Kashif Ahmed Khan",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -10,94 +10,51 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "My Notes",
-        "groups": [
-          {
-            "group": "About Me",
-            "pages": [
-              "my-notes/intro",
-              "my-notes/experience"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
+    {
+      "tab": "Portfolio",
+      "groups": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "group": "About",
+          "pages": ["about/introduction", "about/experience"]
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "group": "Writing",
+          "pages": [
+            "writing/memberpress",
+            "writing/slider-revolution-manual",
+            "writing/slider-revolution-faqs",
+            "writing/slider-revolution-blog"
+          ]
+        },
+        {
+          "group": "Projects",
+          "pages": [
+            "projects/enkypt",
+            "projects/vigiguard"
+          ]
         }
       ]
     }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+  ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "LinkedIn",
+          "href": "https://www.linkedin.com/in/kashifahmedkhan555/",
+          "icon": "linkedin"
+        },
+        {
+          "anchor": "GitHub",
+          "href": "https://github.com/kashifahmedkhan",
+          "icon": "github"
+        },
+        {
+          "anchor": "Resume",
+          "href": "https://tinyurl.com/323n59wh",
+          "icon": "file-lines"
+        }
+      ]
+    }
   },
   "navbar": {
     "links": [
@@ -126,9 +83,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/kashif__khan",
+      "github": "https://github.com/kashifahmedkhan",
+      "linkedin": "https://www.linkedin.com/in/kashifahmedkhan555/"
     }
   }
 }
