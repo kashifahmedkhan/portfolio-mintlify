@@ -56,6 +56,7 @@ The portfolio demonstrates three things simultaneously:
 
 - **Live site:** [kashifahmed.dev](https://kashifahmed.dev)
 - **LinkedIn:** [linkedin.com/in/kashifahmedkhan555](https://www.linkedin.com/in/kashifahmedkhan555/)
+- [**Twitter(X)**](https://x.com/kashif__khan)
 - **Resume:** [View PDF](https://tinyurl.com/323n59wh)
 
 ---
