@@ -18,12 +18,12 @@
           "pages": ["about/introduction", "about/experience", "about/skills"]
         },
         {
-          "group": "Writing",
+          "group": "Documentation",
           "pages": [
-            "writing/memberpress",
-            "writing/slider-revolution-manual",
-            "writing/slider-revolution-faqs",
-            "writing/slider-revolution-blog"
+            "documentation/memberpress",
+            "documentation/slider-revolution-manual",
+            "documentation/slider-revolution-faqs",
+            "documentation/slider-revolution-blog"
           ]
         },
         {
