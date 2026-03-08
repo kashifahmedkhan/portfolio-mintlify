@@ -8,3 +8,10 @@ drafts/
 
 # DS_Store
 .DS_Store
+
+# Starter Files
+/ai-tools
+/api-reference
+/essentials
+/logo
+/snippets

@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Kashif Ahmed Khan",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#6366F1",
+    "light": "#818CF8",
+    "dark": "#4338CA"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -36,7 +36,7 @@
         {
           "group": "Get in Touch",
           "pages": [
-            "contact/contact",
+            "contact/contact"
           ]
         }
       ]
@@ -57,9 +57,13 @@
         {
           "anchor": "Resume",
           "href": "https://tinyurl.com/323n59wh",
-          "icon": "file-lines"
+          "icon": "file"
         },
-        
+        {
+          "anchor": "Contact Me",
+          "href": "/contact/contact",
+          "icon": "paper-plane"
+        }
       ]
     }
   },
