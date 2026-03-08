@@ -1,6 +1,6 @@
 # Kashif Ahmed Khan — Documentation Portfolio
 
-> Senior Technical Support and Documentation Engineer with 13 years of experience
+> Senior Technical Support and Documentation Engineer with 11 years of experience
 > in WordPress and SaaS products. Specializes in making complex products
 > understandable for users, developers, and AI agents. Reduced MemberPress support
 > ticket volume from 1,200 to 500 in six months through targeted documentation.
