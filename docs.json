@@ -32,6 +32,12 @@
             "projects/enkypt",
             "projects/vigiguard"
           ]
+        },
+        {
+          "group": "Get in Touch",
+          "pages": [
+            "contact/contact",
+          ]
         }
       ]
     }
@@ -52,21 +58,16 @@
           "anchor": "Resume",
           "href": "https://tinyurl.com/323n59wh",
           "icon": "file-lines"
-        }
+        },
+        
       ]
     }
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Contact Me",
+      "href": "mailto:kashifahmedkhan22@gmail.com"
     }
   },
   "contextual": {

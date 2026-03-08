@@ -63,6 +63,6 @@ The portfolio demonstrates three things simultaneously:
 
 ## Contact
 
-Open to remote roles in technical support, documentation engineering, and customer education at SaaS and developer tools companies.
+Open to remote roles in technical support, documentation engineering, and customer education at SaaS and developer tools companies. Available across U.S., European, Middle East, and APAC time zones.
 
 **Email:** kashifahmedkhan22@gmail.com
