@@ -1,4 +1,4 @@
-# Kashif Ahmed Khan — Documentation Portfolio
+# Kashif Ahmed Khan — Portfolio
 
 Senior Technical Support and Documentation Engineer with 13 years of experience in WordPress and SaaS products. This repository is the source for my documentation portfolio site, built with Mintlify and live at [kashifahmed.dev](https://kashifahmed.dev).
 
