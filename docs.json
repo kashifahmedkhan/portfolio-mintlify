@@ -15,7 +15,7 @@
       "groups": [
         {
           "group": "About",
-          "pages": ["about/introduction", "about/experience"]
+          "pages": ["about/introduction", "about/experience", "about/skills"]
         },
         {
           "group": "Writing",
