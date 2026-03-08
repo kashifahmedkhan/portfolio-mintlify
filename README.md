@@ -1,55 +1,67 @@
-# CiperWiz
+# Kashif Ahmed Khan — Documentation Portfolio
 
-Use the starter kit to get your docs deployed and ready to customize.
+Senior Technical Support and Documentation Engineer with 13 years of experience in WordPress and SaaS products. This repository is the source for my documentation portfolio site, built with Mintlify and live at [kashifahmed.dev](https://kashifahmed.dev).
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+---
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+## About This Portfolio
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+This is not a collection of writing samples dropped into a folder. It is a working documentation site built using a docs as code workflow — every page is written in MDX, stored in this repository, and deployed automatically to Mintlify on every push.
 
-## AI-assisted writing
+The portfolio demonstrates three things simultaneously:
 
-Set up your AI coding tool to work with Mintlify:
+1. **Documentation quality** — writing samples from real products at scale
+2. **Docs as code fluency** — Mintlify, MDX, GitHub, frontmatter, AI agent optimization
+3. **Information architecture** — how a knowledge base is structured, not just written
 
-```bash
-npx skills add https://mintlify.com/docs
-```
+---
 
-This command installs Mintlify's documentation skill for your configured AI tools like Claude Code, Cursor, Windsurf, and others. The skill includes component reference, writing standards, and workflow guidance.
+## What Is Inside
 
-See the [AI tools guides](/ai-tools) for tool-specific setup.
+### About
+- Who I am, work history, and key metrics
+- Skills across technical support, documentation, and tooling
 
-## Development
+### Writing Samples
+- **MemberPress** — documentation for one of the most widely used WordPress membership plugins, including the full AppKit suite (86 articles written in one week) and WishList LMS (46 articles pre-launch)
+- **Slider Revolution Manual** — technical manual articles for a plugin with 9M+ active installs
+- **Slider Revolution FAQs** — 28 troubleshooting articles written in response to recurring support ticket patterns
+- **Slider Revolution Blog** — feature announcements and product update articles
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+### Projects
+- **VigiGuard** — a free WordPress security plugin, live on WordPress.org
+- **Enkypt** — a commercial WordPress security plugin in late-stage development, built using an AI-assisted development workflow
 
-```
-npm i -g mint
-```
+---
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
+## Key Career Metrics
 
-```
-mint dev
-```
+- Reduced MemberPress active support ticket volume from **1,200 to 500** (58% drop) in under 6 months
+- Wrote **86 articles** for MemberPress AppKit from scratch in one week
+- Wrote **46 articles** for WishList LMS ahead of launch with zero documentation debt
+- Wrote **39 articles** for Slider Revolution — manuals, FAQs, blog posts, and how-to guides
+- Supported Slider Revolution across **9M+ active installs** worldwide
 
-View your local preview at `http://localhost:3000`.
+---
 
-## Publishing changes
+## Built With
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+- [Mintlify](https://mintlify.com) — documentation platform
+- MDX and Markdown
+- GitHub for version control and deployment
 
-## Need help?
+---
 
-### Troubleshooting
+## Links
 
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
+- **Live site:** [kashifahmed.dev](https://kashifahmed.dev)
+- **LinkedIn:** [linkedin.com/in/kashifahmedkhan555](https://www.linkedin.com/in/kashifahmedkhan555/)
+- **Resume:** [View PDF](https://tinyurl.com/323n59wh)
 
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+---
+
+## Contact
+
+Open to remote roles in technical support, documentation engineering, and customer education at SaaS and developer tools companies.
+
+**Email:** kashifahmedkhan22@gmail.com
