@@ -6,6 +6,13 @@
     "name": "Portfolio",
     "icon": "pen-nib"
   },
+  "anchors": [],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/about/introduction"
+    }
+  ],
   "colors": {
     "primary": "#6366F1",
     "light": "#818CF8",
