@@ -6,7 +6,17 @@
     "name": "Portfolio",
     "icon": "pen-nib"
   },
-  "anchors": [],
+  "seo": {
+    "metatags": {
+      "og:title": "Kashif Ahmed Khan — Technical Support & Documentation Engineer",
+      "og:description": "13 years of WordPress and SaaS technical support, documentation, and customer education. Open to remote roles.",
+      "og:site_name": "Kashif Ahmed Khan",
+      "twitter:title": "Kashif Ahmed Khan — Technical Support & Documentation Engineer",
+      "twitter:description": "13 years of WordPress and SaaS technical support, documentation, and customer education. Open to remote roles.",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@kashif__khan"
+    }
+  },
   "redirects": [
     {
       "source": "/",
