@@ -20,7 +20,7 @@
         "pages": ["about/introduction", "about/experience", "about/skills"]
       },
       {
-        "group": "Documentation",
+        "group": "Writing Portfolio",
         "icon": "book-open",
         "pages": [
           "documentation/memberpress",
