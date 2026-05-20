@@ -34,6 +34,7 @@
         "group": "Writing Portfolio",
         "icon": "book-open",
         "pages": [
+          "documentation/docx",
           "documentation/memberpress",
           "documentation/slider-revolution-manual",
           "documentation/slider-revolution-tutorials",
